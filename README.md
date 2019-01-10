@@ -1,4 +1,4 @@
-# Fetch data from web server in JSON Formate
+# Fetch data from web server in JSON Format
 ## Libraries
 ### 1. Volley - To make network request. (https://developer.android.com/training/volley/simple).
 ### 2. Picasso - To load images from server. (http://square.github.io/picasso/).
